@@ -1,0 +1,29 @@
+.date{
+    font-family: 'Roboto';
+    width: 80%;
+    margin: 20px auto 0px auto;
+    color: rgb(41, 109, 109);
+}
+.main{
+    font-family: 'Roboto';
+    width: 80%;
+    margin: 40px auto 0px auto;
+    color: rgb(41, 109, 109);
+}
+
+h1{
+    font-family: 'Montserrat';
+    width: 80%;
+    margin: 20px auto 35px auto;
+}
+
+.post-content{
+    font-family: 'Open Sans';
+    width: 80%;
+    margin: 20px auto 20px auto;
+}
+
+body{
+    width: 80%;
+    margin: 20px auto 20px auto;
+}
